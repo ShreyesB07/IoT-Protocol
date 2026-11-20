@@ -1,0 +1,7 @@
+Direct dependencies are version-pinned in requirements.txt where appropriate.
+The versions were selected against the current project documentation at build time:
+- paho-mqtt 2.2.0 (Callback API v2)
+- aiocoap 0.4.17
+- streamlit 1.67.0
+
+Use a Python 3.11 or 3.12 virtual environment on macOS for the first run.
